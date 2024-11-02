@@ -1,0 +1,64 @@
+*{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+h1{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+h2{
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.products{
+    margin-left:10%;
+    margin-right: 10%;
+}
+.product{
+    float: left;
+    border: 1px rgb(103, 103, 103) solid;
+    width: 21%;
+    margin:10px 10px 10px 10px;
+    padding: 8px;
+}
+img{
+    width: 100%;
+    margin-bottom: 10;
+    
+}
+p{
+    display: inline;
+}
+.discount_price{
+    font-size: 16px;
+}
+.old_price{
+    font-size:12px;
+    color: red;
+    text-decoration: line-through;
+}
+.price{
+   margin-top: 10px; 
+   margin-bottom: 10px;
+}
+.button1{
+    background-color: blue;
+    width: 78%;
+    color: white;
+    padding: 5px;font-size: 18;
+    border: 1px blue solid;
+}
+.button2{
+    background-color: white;
+    width: 20%;
+    color: blue;
+    padding: 5px;
+    font-size: 18;
+    border: 1px blue solid;
+}
+.clear{
+    clear: both;
+}
